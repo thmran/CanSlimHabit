@@ -21,7 +21,7 @@ def step1():
         webbrowser.open(i)
     print("---------")
     input("Note: Xu Huong thay doi ? (Pres any key for Next Steps)")
-    input("Note: Co phieu nao tang gia ?")
+    input("Note: Co phieu Dan Dat nao tang gia ?")
     input("Note: Cach ung xu theo xu huong hien tai? ")
 
 def step2():
